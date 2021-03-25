@@ -9,9 +9,9 @@
 <body>
 	<header>헤더에요
 	</header>
-	<article>
+	<article>본문
 	</article>
-	<footer>
+	<footer>푸터
 	</footer>
 </body>
 </html>
