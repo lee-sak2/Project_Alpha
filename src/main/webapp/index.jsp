@@ -9,6 +9,7 @@
 <body>
 	<header>헤더에요
 		<div>회원가입ㅋㅋ</div>
+		<div>관리자</div>
 	</header>
 	<article>본문
 	</article>
