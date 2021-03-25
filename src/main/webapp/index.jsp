@@ -11,6 +11,8 @@
 		<div>회원가입ㅋㅋ</div>
 	</header>
 	<article>본문
+		<section>기사1</section>
+		<section>기사2</section>
 	</article>
 	<footer>푸터
 	</footer>
